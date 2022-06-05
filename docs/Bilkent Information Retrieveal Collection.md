@@ -1,4 +1,4 @@
-# Bilkent Information Retrieveal Collection
+# TDD-C-202206-CC-023.md
 
 
 This dataset is a collection of newspaper documents. It can be used for Information Retrieveal studies. It contains documents, queries, and query relevants. You can reach the [paper]( http://repository.bilkent.edu.tr/bitstream/handle/11693/23211/Information%20retrieval%20on%20turkish%20texts.pdf?sequence=1&isAllowed=y) and [GitHub Repositories](https://github.com/BilkentInformationRetrievalGroup/MilliyetCollectionTREC) of this dataset via given links.
