@@ -3,3 +3,4 @@ Collection of documentation of tdd datasets.
 
 - [Boun Web Corpus](docs/TDD-C-202109-CC-005.md)
 - [Exams](docs/%20TDD-C-202106-CC-015.md)
+- [Bilkent Information Retrieval](docs/TDD-C-202206-CC-023.md)
