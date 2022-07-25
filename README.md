@@ -24,3 +24,6 @@ Collection of documentation of tdd datasets.
 - [MNLI-TR](docs/TDD-C-202203-CC-001.md)
 - [trsum](docs/TDD-C-202112-UNL-001.md)
 - [Semantic Textual Similarity benchmark Turkish (STSb-TR)](docs/TDD-C-202204-CC-001.md)
+- [Semantic Textual Similarity benchmark Turkish (STSb-TR)](docs/TDD-C-202204-CC-001.md)
+- [Cross Lingual Word Embeddings for Turkic Languages](docs/TDD-D-202106-UNL-002.md)
+
