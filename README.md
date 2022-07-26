@@ -26,4 +26,5 @@ Collection of documentation of tdd datasets.
 - [Semantic Textual Similarity benchmark Turkish (STSb-TR)](docs/TDD-C-202204-CC-001.md)
 - [Semantic Textual Similarity benchmark Turkish (STSb-TR)](docs/TDD-C-202204-CC-001.md)
 - [Cross Lingual Word Embeddings for Turkic Languages](docs/TDD-D-202106-UNL-002.md)
+- [TrBanking77](docs/TDD-C-202207-CC-001.md)
 
